@@ -16,10 +16,7 @@
 </a>
   </div>
 </div>
-<!-- Счётчик посещений -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Maygdan&color=orange&style=for-the-badge" alt="Profile views" />
-</p>
+
 
 ## 🛠️ Tech Stack
 <!-- Бейджи  -->
@@ -33,31 +30,10 @@
   <a href="https://www.djangoproject.com/"><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" height="35"/></a>
   <a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" height="35"/></a>
 </p>
-
-## 📌 Закреплённые проекты
-
-<!-- Первый ряд -->
+<!-- Счётчик посещений -->
 <p align="center">
-  <a href="https://github.com/Maygdan/ItamHack">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Maygdan&repo=ItamHack&theme=onedark&hide_border=true" />
-  </a>
-  <a href="https://github.com/Maygdan/Bookshop">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Maygdan&repo=Bookshop&theme=onedark&hide_border=true" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=Maygdan&color=orange&style=for-the-badge" alt="Profile views" />
 </p>
-
-<!-- Второй ряд -->
-<p align="center">
-  <a href="https://github.com/Maygdan/you_talk">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Maygdan&repo=you_talk&theme=onedark&hide_border=true" />
-  </a>
-  <a href="https://github.com/Maygdan/BB">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Maygdan&repo=BB&theme=onedark&hide_border=true" />
-  </a>
-</p>
-
-
-
 
 ## 📫 Message me
 
