@@ -5,43 +5,24 @@
 </h1>
 
 
-<!-- GitHub Streak и LeetCode в один ряд с кликабельным LeetCode через карту изображений -->
+<!-- GitHub Streak и LeetCode  -->
 <div align="center">
   <div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
-    <!-- GitHub Streak (без ссылки) -->
+    <!-- GitHub Streak  -->
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Maygdan&theme=onedark&hide_border=true" alt="GitHub Streak" />
-    <!-- LeetCode Stats с кликабельной областью на всей картинке -->
+    <!-- LeetCode Stats -->
     <a href="https://leetcode.com/u/maygdan/" target="_blank">
   <img src="https://leetcard.jacoblin.cool/maygdan?theme=dark" alt="LeetCode Stats" />
 </a>
   </div>
 </div>
-
-<p align="center">
-  <img src="https://github-readme-stats.anuraghazra.vercel.app/api?username=Maygdan&show_icons=true&theme=onedark&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.anuraghazra.vercel.app/api/top-langs/?username=Maygdan&layout=compact&theme=onedark&hide_border=true" alt="Top Languages" />
-</p>
-
-<!-- График активности -->
-<p align="center">
-  <img src="https://grpah.vercel.app/graph?username=Maygdan&theme=onedark&hide_border=true&area=true" alt="GitHub Activity Graph" width="100%"/>
-</p>
-
-<!-- Трофеи (по желанию) -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Maygdan&theme=onedark&no-frame=true&no-bg=true&margin-w=15&margin-h=15" alt="Trophy" />
-</p>
-
 <!-- Счётчик посещений -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Maygdan&color=orange&style=for-the-badge" alt="Profile views" />
 </p>
 
 ## 🛠️ Tech Stack
-<!-- Бейджи (как у тебя) -->
+<!-- Бейджи  -->
 <p align="center">
   <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="35"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="35"/></a>
@@ -54,13 +35,24 @@
 </p>
 
 ## 📌 Закреплённые проекты
-<!-- ЗАМЕНИ НАЗВАНИЯ РЕПОЗИТОРИЕВ -->
+
+<!-- Первый ряд -->
 <p align="center">
-  <a href="https://github.com/Maygdan/awesome-project-1">
-    <img src="https://github-readme-stats.anuraghazra.vercel.app/api/pin/?username=Maygdan&repo=awesome-project-1&theme=onedark&hide_border=true" />
+  <a href="https://github.com/Maygdan/ItamHack">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Maygdan&repo=ItamHack&theme=onedark&hide_border=true" />
   </a>
-  <a href="https://github.com/Maygdan/awesome-project-2">
-    <img src="https://github-readme-stats.anuraghazra.vercel.app/api/pin/?username=Maygdan&repo=awesome-project-2&theme=onedark&hide_border=true" />
+  <a href="https://github.com/Maygdan/Bookshop">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Maygdan&repo=Bookshop&theme=onedark&hide_border=true" />
+  </a>
+</p>
+
+<!-- Второй ряд -->
+<p align="center">
+  <a href="https://github.com/Maygdan/you_talk">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Maygdan&repo=you_talk&theme=onedark&hide_border=true" />
+  </a>
+  <a href="https://github.com/Maygdan/BB">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Maygdan&repo=BB&theme=onedark&hide_border=true" />
   </a>
 </p>
 
@@ -72,4 +64,5 @@
 <p align="center">
   <a href="https://t.me/Maygdan"><img src="https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white" height="30"/></a>
   <a href="https://vk.com/maygdan"><img src="https://img.shields.io/badge/VK-0077FF?style=for-the-badge&logo=vk&logoColor=white" height="30"/></a>
+  <a href="mailto:alecseyretinskiy@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30"/></a>
 </p>
