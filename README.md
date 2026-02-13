@@ -1,73 +1,75 @@
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Hi,+I'm+a+Full-stack+developer;I+have+learned+•+C%23+•+Python+•+OOP+•+Docker;Also+JavaScript+•+CSS+•+HTML+•+TypeScript;I+want+to+learn+•+C%2B%2B+•+Kotlin+•+Swift" alt="Typing SVG" />
+  </a>
+</h1>
+
+
+<!-- GitHub Streak и LeetCode в один ряд с кликабельным LeetCode через карту изображений -->
+<div align="center">
+  <div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
+    <!-- GitHub Streak (без ссылки) -->
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Maygdan&theme=onedark&hide_border=true" alt="GitHub Streak" />
+    <!-- LeetCode Stats с кликабельной областью на всей картинке -->
+    <a href="https://leetcode.com/u/maygdan/" target="_blank">
+  <img src="https://leetcard.jacoblin.cool/maygdan?theme=dark" alt="LeetCode Stats" />
+</a>
+  </div>
+</div>
+
 <p align="center">
-  <h1>👨‍💻 Full-stack разработчик | C# • Python • OOP • Алгоритмы</h1>
+  <img src="https://github-readme-stats.anuraghazra.vercel.app/api?username=Maygdan&show_icons=true&theme=onedark&hide_border=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Maygdan&theme=onedark&hide_border=true)
+  <img src="https://github-readme-stats.anuraghazra.vercel.app/api/top-langs/?username=Maygdan&layout=compact&theme=onedark&hide_border=true" alt="Top Languages" />
 </p>
 
+<!-- График активности -->
 <p align="center">
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Maygdan&show_icons=true&theme=onedark&hide_border=true)
+  <img src="https://grpah.vercel.app/graph?username=Maygdan&theme=onedark&hide_border=true&area=true" alt="GitHub Activity Graph" width="100%"/>
 </p>
 
+<!-- Трофеи (по желанию) -->
 <p align="center">
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maygdan&layout=compact&theme=onedark&hide_border=true)
+  <img src="https://github-profile-trophy.vercel.app/?username=Maygdan&theme=onedark&no-frame=true&no-bg=true&margin-w=15&margin-h=15" alt="Trophy" />
 </p>
 
+<!-- Счётчик посещений -->
 <p align="center">
-  ![Trophy](https://github-profile-trophy.vercel.app/?username=Maygdan&theme=onedark&no-frame=true&no-bg=true&margin-w=15&margin-h=15)
-</p>
-
-<!-- WakaTime (твоя недельная активность кодинга) -->
-<p align="center">
-  ![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=Maygdan&theme=onedark&hide_border=true)
-</p>
-
-<!-- LeetCode (если есть аккаунт, замени на свой) -->
-<!--
-<p align="center">
-  ![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=your-leetcode-username)
-</p>
--->
-
-<p align="center">
-  ![Visitors](https://komarev.com/ghpvc/?username=Maygdan&color=blue&style=for-the-badge)
+  <img src="https://komarev.com/ghpvc/?username=Maygdan&color=orange&style=for-the-badge" alt="Profile views" />
 </p>
 
 ## 🛠️ Tech Stack
+<!-- Бейджи (как у тебя) -->
 <p align="center">
-  <a href="https://docs.python.org/">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" height="35"/>
+  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="35"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="35"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="35"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="35"/></a>
+  <a href="https://react.dev/"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" height="35"/></a>
+  <a href="https://learn.microsoft.com/dotnet/csharp/"><img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" height="35"/></a>
+  <a href="https://www.djangoproject.com/"><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" height="35"/></a>
+  <a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" height="35"/></a>
+</p>
+
+## 📌 Закреплённые проекты
+<!-- ЗАМЕНИ НАЗВАНИЯ РЕПОЗИТОРИЕВ -->
+<p align="center">
+  <a href="https://github.com/Maygdan/awesome-project-1">
+    <img src="https://github-readme-stats.anuraghazra.vercel.app/api/pin/?username=Maygdan&repo=awesome-project-1&theme=onedark&hide_border=true" />
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" height="35"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" height="35"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" height="35"/>
-  </a>
-  <a href="https://react.dev/">
-    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" height="35"/>
-  </a>
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/">
-    <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" height="35"/>
-  </a>
-  <a href="https://docs.djangoproject.com/">
-    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" height="35"/>
-  </a>
-  <a href="https://www.postgresql.org/docs/">
-    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" height="35"/>
+  <a href="https://github.com/Maygdan/awesome-project-2">
+    <img src="https://github-readme-stats.anuraghazra.vercel.app/api/pin/?username=Maygdan&repo=awesome-project-2&theme=onedark&hide_border=true" />
   </a>
 </p>
 
-## 📫 Контакты
+
+
+
+## 📫 Message me
+
 <p align="center">
-  <a href="https://t.me/Maygdan">
-    <img src="https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white" height="30"/>
-  </a>
-  <a href="https://vk.com/maygdan">
-    <img src="https://img.shields.io/badge/VK-0077FF?style=for-the-badge&logo=vk&logoColor=white" height="30"/>
-  </a>
+  <a href="https://t.me/Maygdan"><img src="https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white" height="30"/></a>
+  <a href="https://vk.com/maygdan"><img src="https://img.shields.io/badge/VK-0077FF?style=for-the-badge&logo=vk&logoColor=white" height="30"/></a>
 </p>
