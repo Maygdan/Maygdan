@@ -40,6 +40,9 @@
 <p align="center">
   <a href="https://t.me/Maygdan"><img src="https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white" height="30"/></a>
   <a href="https://vk.com/maygdan"><img src="https://img.shields.io/badge/VK-0077FF?style=for-the-badge&logo=vk&logoColor=white" height="30"/></a>
+  <a href="mailto:alecseyretinskiy@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me" height="30"/>
+</a>
 </p>
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alecseyretinskiy@gmail.com)
+  
 
