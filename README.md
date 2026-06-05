@@ -9,7 +9,7 @@
 <div align="center">
   <div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
     <!-- GitHub Streak  -->
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Maygdan&theme=onedark&hide_border=true" alt="GitHub Streak" />
+    
     <!-- LeetCode Stats -->
     <a href="https://leetcode.com/u/maygdan/" target="_blank">
   <img src="https://leetcard.jacoblin.cool/maygdan?theme=dark" alt="LeetCode Stats" />
