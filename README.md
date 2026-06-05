@@ -9,9 +9,6 @@
 <div align="center">
   <div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
     <!-- GitHub Streak  -->
-    
-    <!-- LeetCode Stats -->
-    <a href="https://leetcode.com/u/maygdan/" target="_blank">
   <img src="https://leetcard.jacoblin.cool/maygdan?theme=dark" alt="LeetCode Stats" />
 </a>
   </div>
