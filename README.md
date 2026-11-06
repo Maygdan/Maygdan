@@ -4,20 +4,6 @@
   </a>
 </h1>
 
-<!-- О себе: впиши пару строк своими словами -->
-<p align="center">
-  2nd-year student at NUST MISIS · Full-stack · Hackathons<br/>
-  <!-- TODO: одна строка о том, что сейчас делаешь/изучаешь -->
-</p>
-
-## 🏆 Hackathons & Projects
-
-<!-- TODO: заполни результат и свою роль. Если не участвовал в хакатоне как команда, убери лишнее. -->
-- **[ItamHack](https://github.com/Maygdan/ItamHack)** — JavaScript. <!-- что сделали, результат/место, твоя роль -->
-- **[HSE-VIBE-HACK](https://github.com/Maygdan/HSE-VIBE-HACK)** — JavaScript. <!-- что сделали, результат/место, твоя роль -->
-- **[Bookshop](https://github.com/Maygdan/Bookshop)** — JavaScript. <!-- одна строка: что это -->
-- **[Project](https://github.com/Maygdan/Project)** — C#. <!-- одна строка: что это -->
-
 ## 🛠️ Tech Stack
 
 <!-- Бейджи -->
@@ -54,4 +40,5 @@
 <p align="center">
   <a href="https://t.me/Maygdan"><img src="https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white" height="30"/></a>
   <a href="https://vk.com/maygdan"><img src="https://img.shields.io/badge/VK-0077FF?style=for-the-badge&logo=vk&logoColor=white" height="30"/></a>
+  <a href="mailto:alecseyretinskiy@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me" height="30"/></a>
 </p>
