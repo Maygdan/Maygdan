@@ -27,11 +27,9 @@
   <a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" height="35"/></a>
 </p>
 
-## 📊 Weekly coding stats
+## 📊 Coding stats
 
-<!-- Этот блок автоматически заполняет athul/waka-readme (нужны WAKATIME_API_KEY и workflow waka.yml) -->
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+<p align="center"> <img src="https://wakatime.com/share/@3f132ede-ef8b-49fe-b930-6b66ed1d349b/0222a012-7e9f-47a2-aa56-7be4fd06223f.svg" alt="Coding stats" /> </p>
 
 ## 📫 Message me
 
