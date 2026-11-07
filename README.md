@@ -4,6 +4,18 @@
   </a>
 </h1>
 
+## 🐍 Contributions
+
+<!-- Картинки генерирует Platane/snk (workflow snake.yml, ветка output) -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Maygdan/Maygdan/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Maygdan/Maygdan/output/github-snake.svg" />
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/Maygdan/Maygdan/output/github-snake.svg" />
+  </picture>
+</p>
+
+
 ## 🛠️ Tech Stack
 
 <!-- Бейджи -->
@@ -24,16 +36,7 @@
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-## 🐍 Contributions
 
-<!-- Картинки генерирует Platane/snk (workflow snake.yml, ветка output) -->
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Maygdan/Maygdan/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Maygdan/Maygdan/output/github-snake.svg" />
-    <img alt="Contribution snake" src="https://raw.githubusercontent.com/Maygdan/Maygdan/output/github-snake.svg" />
-  </picture>
-</p>
 
 ## 📫 Message me
 
