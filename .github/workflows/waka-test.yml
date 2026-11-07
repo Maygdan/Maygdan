@@ -5,9 +5,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - run: |
-          echo "length=${#KEY}"
-          echo "starts=${KEY:0:5}"
-          curl -s -o /dev/null -w "api_key param: %{http_code}\n" "https://wakatime.com/api/v1/users/current/stats/last_7_days?api_key=$KEY"
-          curl -s -o /dev/null -w "basic auth: %{http_code}\n" -H "Authorization: Basic $(printf %s "$KEY" | base64 -w0)" "https://wakatime.com/api/v1/users/current/stats/last_7_days"
+          echo "last4=${KEY: -4}"
+          curl -s -i -H "Authorization: Basic $(printf %s "$KEY" | base64 -w0)" "https://wakatime.com/api/v1/users/current/stats/last_7_days" | head -c 1500
         env:
           KEY: ${{ secrets.WAKATIME_API_KEY }}
