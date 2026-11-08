@@ -5,7 +5,7 @@
 </div>
 
 
-## 📊 Coding stats
+## ⭐ Coding stats
 
 <p align="center"> <img src="https://wakatime.com/share/@3f132ede-ef8b-49fe-b930-6b66ed1d349b/0222a012-7e9f-47a2-aa56-7be4fd06223f.svg" width="70%" alt="Languages" /> </p>
 
